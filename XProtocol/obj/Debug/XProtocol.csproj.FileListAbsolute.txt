@@ -1,0 +1,6 @@
+C:\Users\FBU-KATALKIN\Desktop\c#\TCPProtocol-master\XProtocol\bin\Debug\XProtocol.dll
+C:\Users\FBU-KATALKIN\Desktop\c#\TCPProtocol-master\XProtocol\bin\Debug\XProtocol.pdb
+C:\Users\FBU-KATALKIN\Desktop\c#\TCPProtocol-master\XProtocol\obj\Debug\XProtocol.csprojAssemblyReference.cache
+C:\Users\FBU-KATALKIN\Desktop\c#\TCPProtocol-master\XProtocol\obj\Debug\XProtocol.csproj.CoreCompileInputs.cache
+C:\Users\FBU-KATALKIN\Desktop\c#\TCPProtocol-master\XProtocol\obj\Debug\XProtocol.dll
+C:\Users\FBU-KATALKIN\Desktop\c#\TCPProtocol-master\XProtocol\obj\Debug\XProtocol.pdb
